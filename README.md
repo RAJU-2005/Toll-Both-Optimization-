@@ -10,7 +10,7 @@
 ## 📌 Abstract
 This research focuses on optimizing traffic flow at the **Sadahalli toll gate** on the Bengaluru–Bellary highway using **Queuing Theory** and **Linear Programming (LP)**. With a traffic load of over 90,000 vehicles/day, the toll plaza faces regular congestion, especially during airport peak hours. Our study combines mathematical modeling and real-time data analysis to recommend optimal lane allocations and reduce average wait time.
 
-> 📥 **To read the full research paper**, please refer to the attached file [`Toll_Booth_system__OPTIMIZATION_.pdf`](./Toll_Booth_system__OPTIMIZATION_.pdf) available in this repository.
+> 📥 **To read the full research paper**, please refer to the attached file [`Toll_Booth_system__OPTIMIZATION_.pdf`]([./Toll_Booth_system__OPTIMIZATION_.pdf](https://github.com/RAJU-2005/Toll-Both-Optimization-/blob/main/Toll_Booth_system__OPTIMIZATION_%20(1).pdf)) available in this repository.
 
 ## 🧠 Methodology
 1. **Data Collection** – Arrival & service rates, lane performance.
