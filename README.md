@@ -1,6 +1,5 @@
 # 🚦 Toll Booth System Optimization
 
-## 📄 Project Title
 **Optimizing Toll Gate Operations Using Queuing Theory and Linear Programming**
 
 ## 👨‍🎓 Authors
