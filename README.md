@@ -3,9 +3,9 @@
 **Optimizing Toll Gate Operations Using Queuing Theory and Linear Programming**
 
 ## 👨‍🎓 Authors
-- Raju Kartik N R  
+- Raju
+- Kartik N R  
 - Vidyasagar L  
-- April 20, 2025  
 
 ## 📌 Abstract
 This research focuses on optimizing traffic flow at the **Sadahalli toll gate** on the Bengaluru–Bellary highway using **Queuing Theory** and **Linear Programming (LP)**. With a traffic load of over 90,000 vehicles/day, the toll plaza faces regular congestion, especially during airport peak hours. Our study combines mathematical modeling and real-time data analysis to recommend optimal lane allocations and reduce average wait time.
